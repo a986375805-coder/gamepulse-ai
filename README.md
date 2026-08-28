@@ -43,6 +43,18 @@
 
 ![Whitelist Management](screenshots/whitelist-management.png)
 
+---
+
+**🖥️ 终端运行 — 一键启动全流程**
+
+![Terminal Run](screenshots/terminal-run.png)
+
+---
+
+**👁️ 只读查看端 — 分享给团队/领导查看，禁止修改**
+
+![Readonly Viewer](screenshots/readonly-viewer.png)
+
 </div>
 
 ---
@@ -61,6 +73,9 @@
   2. 📋 **四栏看板**：按状态（待测/测试中/已上线）流转
   3. 📝 **测试排期表**：按时间轴线性展示
   4. 👁️ **待审核列表**：新抓取数据的人工复核区
+
+- 🔒 **只读共享模式 (Read-Only Viewer)**
+  生成独立的 `view.html` 只读页面，分享给领导/团队查看数据，**禁止任何修改操作**，保护数据安全。
 
 - 🌐 **RESTful API 服务 (Headless Management)**
   内置轻量级 Web Server (端口 8765)，支持数据的增删改查 (CRUD)，可对接飞书/微信机器人或前端框架。
