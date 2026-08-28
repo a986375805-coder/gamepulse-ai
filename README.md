@@ -17,6 +17,36 @@
 
 </div>
 
+## 📸 Screenshots
+
+<div align="center">
+
+**📅 日历视图 — 按日期纵览游戏排期**
+
+![Calendar View](screenshots/calendar-view.png)
+
+---
+
+**📋 测试排期表 — 按月/周展示白名单游戏节点**
+
+![Test Schedule](screenshots/test-schedule.png)
+
+---
+
+**🔍 AI 审查报告 — 自动交叉验证数据准确性**
+
+![AI Review Report](screenshots/ai-review-report.png)
+
+---
+
+**⚙️ 白名单管理 — 自定义关注游戏列表**
+
+![Whitelist Management](screenshots/whitelist-management.png)
+
+</div>
+
+---
+
 ## ✨ 核心技术亮点
 
 - 🔍 **全网数据收割 (Multi-Source Scraping)**
